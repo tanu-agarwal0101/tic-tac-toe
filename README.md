@@ -8,7 +8,8 @@ The tic tac toe game allows two players to take turns marking spaces in a 3x3 gr
 HTML, CSS, and JavaScript based game<br>
 Two-player mode<br>
 Responsive design for various devices<br>
-Demo<br>
+<br>
+<b>Demo</b><br>
 You can play the demo of this game by clicking <a href="https://tanu-agarwal0101-tic-tac-toe.netlify.app">here</a>.<br>
 <br>
 <b>Usage/<b><br>
