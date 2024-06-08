@@ -1,4 +1,4 @@
-#tic-tac-toe<br>
+# tic-tac-toe
 **Tic Tac Toe Game**
 <br>
 This is a simple tic tac toe game built using HTML, CSS, and JavaScript.<br>
